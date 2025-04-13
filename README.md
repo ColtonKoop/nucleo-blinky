@@ -65,7 +65,7 @@ sudo ln -s ~/STMicroelectronics/STM32Cube/STM32CubeProgrammer/bin/STM32_Programm
 ### 3. Clone This Repo with Submodules
 
 ```bash
-git clone --recurse-submodules https://github.com/YOUR_USERNAME/nucleo-blinky.git
+git clone --recurse-submodules https://github.com/ColtonKoop/nucleo-blinky.git
 cd nucleo-blinky
 ```
 
