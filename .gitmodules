@@ -1,0 +1,12 @@
+[submodule "lib/Drivers/CMSIS/Device/ST/STM32F4xx"]
+	path = lib/Drivers/CMSIS/Device/ST/STM32F4xx
+	url = https://github.com/STMicroelectronics/cmsis_device_f4.git
+	branch = master
+[submodule "lib/Drivers/BSP/STM32F4xx-Nucleo"]
+	path = lib/Drivers/BSP/STM32F4xx-Nucleo
+	url = https://github.com/STMicroelectronics/stm32f4xx-nucleo-bsp.git
+	branch = main
+[submodule "lib/Drivers/BSP/Components/Common"]
+	path = lib/Drivers/BSP/Components/Common
+	url = https://github.com/STMicroelectronics/stm32-bsp-common.git
+	branch = main
