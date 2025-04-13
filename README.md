@@ -157,13 +157,6 @@ Here’s a good `.gitignore`:
 ```
 .pio/
 .vscode/
-.idea/
-*.pyc
-*.swp
-.DS_Store
-.env
-venv/
-__pycache__/
 ```
 
 ---
