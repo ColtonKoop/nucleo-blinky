@@ -1,17 +1,2 @@
-# PlatformIO build system files
 .pio/
-.pioenvs/
 .vscode/
-*.elf
-*.bin
-*.hex
-*.map
-
-# Python venv
-venv/
-env/
-*.pyc
-__pycache__/
-
-# CubeProgrammer CLI config
-*.log
